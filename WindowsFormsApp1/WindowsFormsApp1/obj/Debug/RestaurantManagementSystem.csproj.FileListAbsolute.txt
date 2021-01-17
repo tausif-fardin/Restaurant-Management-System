@@ -1,0 +1,40 @@
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserCustomisation.resources
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductDetail.resources
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductCustomisation.resources
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserDetails.resources
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RestaurantManagementSystem.csproj.GenerateResource.cache
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RestaurantManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RestaurantManagementSystem.csproj.CopyComplete
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tausi\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RestaurantManagementSystem.csprojAssemblyReference.cache
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RestaurantManagementSystem.csprojAssemblyReference.cache
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RestaurantManagementSystem.Admin.resources
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RestaurantManagementSystem.Dashboard.resources
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RestaurantManagementSystem.Login.resources
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RestaurantManagementSystem.UserCustomisation.resources
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RestaurantManagementSystem.ProductDetail.resources
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RestaurantManagementSystem.ProductCustomisation.resources
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RestaurantManagementSystem.UserDetails.resources
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RestaurantManagementSystem.csproj.GenerateResource.cache
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RestaurantManagementSystem.csproj.CoreCompileInputs.cache
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RestaurantManagementSystem.csproj.CopyComplete
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Personal\Projects\Restaurant Management System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

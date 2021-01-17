@@ -1,0 +1,60 @@
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserCustomisation.resources
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductDetail.resources
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductCustomisation.resources
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserDetails.resources
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\Archimedes\OneDrive\Desktop\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserCustomisation.resources
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductDetail.resources
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductCustomisation.resources
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserDetails.resources
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Archimedes\OneDrive\Desktop\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserCustomisation.resources
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductDetail.resources
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductCustomisation.resources
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserDetails.resources
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tausi\Desktop\Restaurent (1)\Restaurent\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
